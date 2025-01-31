@@ -8,9 +8,9 @@ A decentralized DNS system built on the IOTA blockchain, enabling users to creat
 
 This project was created by:
 
-- **Chiara Luchini** - University of Perugia
-- **Angelo Murano** - University of Salerno
-- **Simone Valentini** - University of Milan
+- [**Chiara Luchini**](https://github.com/Luchinzzz) - University of Perugia
+- [**Angelo Murano**](https://github.com/angelomur) - University of Salerno
+- [**Simone Valentini**](https://github.com/simone20a) - University of Milan
 
 ---
 
